@@ -1,1 +1,1 @@
-# amitzy-committee
+delet # amitzy-committee
